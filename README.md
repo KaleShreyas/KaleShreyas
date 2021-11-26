@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Microservices and Machine Learning**
 
-- 🌱 I’m currently learning **PyTorch, Django**
+- 🌱 I’m currently learning **PySpark, Financial Modeling**
 
-- 💬 Ask me about **NLP, Python, Flask, C#, WPF**
+- 💬 Ask me about **NLP, Python, PyTorch, Django, Flask, C#, WPF**
 
 - 📫 How to reach me **svk.shreyaskale@live.com**
 
