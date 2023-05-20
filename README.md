@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate software developer interested in delivering the best UX</h3>
 
-- 🔭 I’m currently working on **Model risk and validation using Machine Learning**
+- 🔭 I’m currently working on **Solving business cases using Data Science**
 
-- 🌱 I’m currently learning **PySpark, Financial Modeling**
+- 🌱 I’m currently learning **MLOps and LLM's**
 
-- 💬 Ask me about **NLP, Python, PyTorch, Django, Flask, C#, WPF**
+- 💬 Ask me about **NLP, Python, PySpark, DataBricks, PyTorch, Django, Flask, C#, WPF**
 
 - 📫 How to reach me **svk.shreyaskale@live.com**
 
