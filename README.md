@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **NLP, Python, PySpark, DataBricks, PyTorch, Django, Flask, C#, WPF**
 
-- 📫 How to reach me **svk.shreyaskale@live.com**
+- 📫 How to reach me **svk.shreyaskale@gmail.com**
+
+- LinkedIn **https://www.linkedin.com/in/shreyaskale25/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
