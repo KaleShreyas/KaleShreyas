@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **NLP, Python, PySpark, DataBricks, PyTorch, Django, Flask, C#, WPF**
 
-- 📫 How to reach me **svk.shreyaskale@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreyaskale25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyaskale25" height="30" width="40" /></a>
